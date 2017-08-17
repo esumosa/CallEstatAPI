@@ -2,8 +2,6 @@
 import pprint
 import requests
 import json
-import sys
-import traceback
 
 def main():
 
